@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Overviw of the project
+## Overview of the project
 The purpose of this project is to analyze the data of an entire School District, based on the grades of the students and the budget of each school and provide insights  on each school's performance. However, the analysis had to be conduced twice due to a potential academic dishonesty. The analyses show the impact in the results of the performnaces of schools after the potential academic dishonest data is modified.
 ### Resources
 Software : Python 4.7.6, Anaconda 4.12.0, Jupyter Notebook
